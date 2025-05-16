@@ -1,0 +1,280 @@
+arxiv id,title,published,author(s),abs link,pdf link,journal ref,comment,abstract
+2104.10944v1,Self-immolative chemistry in nanomedicine,2021-04-22T09:15:17Z,"M Gisbert-Garzaran, M Manzano, M Vallet-Regi",http://arxiv.org/abs/2104.10944v1,http://arxiv.org/pdf/2104.10944v1,"Chem. Eng. J. 340, 24-31 (2018)","31 pages, 10 figures","Self-Immolative Chemistry is based on the cascade of disassembling reactions
+triggered by the adequate stimulation and leading to the sequential release of
+the smaller constituent elements. This review will focus on the possibilities
+that this type of chemistry offers to nanomedicine research, which is an area
+where the stimuli responsive behavior is always targeted. There are some
+examples on the use of self-immolative chemistry for prodrugs or nanoparticles
+for drug delivery, but there is still an exciting land of opportunities waiting
+to be explored. This review aims at revising what has been done so far, but,
+most importantly, it aims at inspiring new research of self-immolative
+chemistry on nanomedicine."
+2401.10365v1,"Recent Nanoninformatics Approaches for Developments in Nanobiotechnology
+  and Nanomedicine",2024-01-18T20:14:14Z,"Francisco Mariano-Neto, Thiago de Castro Pereira",http://arxiv.org/abs/2401.10365v1,http://arxiv.org/pdf/2401.10365v1,No journal ref found,No comment found,"Nanoinformatics is a novel, rapidly growing area of research that involves
+the application of computational techniques to several aspects of research in
+the field of nanotechnology, especially concerned its application to
+biotechnology. This reviews aims to explore, summarize and categorize recent
+publications on the subject."
+0906.5022v1,Chemical Power for Microscopic Robots in Capillaries,2009-06-26T23:54:08Z,"Tad Hogg, Robert A. Freitas Jr",http://arxiv.org/abs/0906.5022v1,http://arxiv.org/pdf/0906.5022v1,"Nanomedicine: Nanotechnology, Biology, and Medicine 6:298-317
+  (2010)","28 pages, 7 figures","The power available to microscopic robots (nanorobots) that oxidize
+bloodstream glucose while aggregated in circumferential rings on capillary
+walls is evaluated with a numerical model using axial symmetry and
+time-averaged release of oxygen from passing red blood cells. Robots about one
+micron in size can produce up to several tens of picowatts, in steady-state, if
+they fully use oxygen reaching their surface from the blood plasma. Robots with
+pumps and tanks for onboard oxygen storage could collect oxygen to support
+burst power demands two to three orders of magnitude larger. We evaluate
+effects of oxygen depletion and local heating on surrounding tissue. These
+results give the power constraints when robots rely entirely on ambient
+available oxygen and identify aspects of the robot design significantly
+affecting available power. More generally, our numerical model provides an
+approach to evaluating robot design choices for nanomedicine treatments in and
+near capillaries."
+1811.01418v1,Magnetic Nanoparticles in Nanomedicine,2018-11-04T19:02:13Z,"Kai Wu, Diqing Su, Jinming Liu, Renata Saha, Jian-Ping Wang",http://arxiv.org/abs/1811.01418v1,http://arxiv.org/pdf/1811.01418v1,No journal ref found,"67 pages, 24 figures","Nanomaterials, in addition to their small size, possess unique
+physicochemical properties that differ from the bulk materials, making them
+ideal for a host of novel applications. Magnetic nanoparticle (MNP) is one
+important class of nanomaterials that have been widely studied for their
+potential applications in nanomedicine. Due to the fact that MNPs can be
+detected and manipulated by remote magnetic fields, it opens a wide opportunity
+for them to be used in vivo. Nowadays, MNPs have been used for diverse
+applications including magnetic biosensing (diagnostics), magnetic imaging,
+magnetic separation, drug and gene delivery, and hyperthermia therapy, etc.
+This review aims to provide a comprehensive assessment of the state-of-the-art
+biological and biomedical applications of MNPs. In addition, the development of
+high magnetic moment MNPs with proper surface functionalization has progressed
+exponentially over the past decade. Herein, we also reviewed the recent
+advances in the synthesis and surface coating strategies of MNPs. This review
+is not only to provide in-depth insights into the different synthesis,
+biofunctionalization, biosensing, imaging, and therapy methods but also to give
+an overview of limitations and possibilities of each technology."
+physics/0504007v1,"Societal and ethical interactions with nanotechnology (""SEIN"") -- an
+  introduction",2005-04-01T15:06:33Z,"Davis Baird, Tom Vogt",http://arxiv.org/abs/physics/0504007v1,http://arxiv.org/pdf/physics/0504007v1,No journal ref found,"6 pages published in Nanotechnology Law & Business Journal Vol 1(4)
+  articel 4 2004","We identify 6 important issues tied to the continued development of
+nantechnology: (1) environmental issues, (2) equity issues relating to the
+possible emergence of a ""nanodivide"", (3) legal, regulatory and insurance
+challenges, (4) privacy issues, (5) the interaction between nanomedicine and
+medical issues and (6) ""hypertechnology, or the pace of nanotechnological
+change. We conclude that continued efforts are needed to build upon an emerging
+inclusice dialogue engaging all of nano's stakeholders - from various publics
+to entrepreneurs, industrialists, venture capitalists, scientists and
+engineers-to ensure a mutually beneficial relationship between nanotechnology
+and society."
+2101.11195v1,Magnetic Particles for Multidimensional In-vitro Bioanalysis,2021-01-27T04:26:45Z,Gungun Lin,http://arxiv.org/abs/2101.11195v1,http://arxiv.org/pdf/2101.11195v1,No journal ref found,1 figure,"Multidimensional or multiplex bioanalysis represents a crucial approach to
+improve diagnostic precision, increase assay throughput and advance fundamental
+discoveries in analytical industry, life science and nanomedicine. Along this
+line, bio-interfacing magnetic particles have been playing an important role.
+Fully exploiting the properties of magnetic particles is the key to tailoring
+recent technology development for better translational outcomes. In this
+mini-review, typical magnetophysical dimensions of magnetic particles are
+introduced. Recent progress of implementing these dimensions with advanced
+sensor and actuator technologies in multiplex bioanalysis is discussed.
+Outlooks on potential biomedical applications and challenges are provided."
+2102.00879v1,"Evolutionary computational platform for the automatic discovery of
+  nanocarriers for cancer treatment",2021-02-01T14:38:14Z,"Namid Stillman, Igor Balaz, Antisthenis Tsompanas, Marina Kovacevic, Sepinoud Azimi, Sebastien Lafond, Andrew Adamatzky, Sabine Hauert",http://arxiv.org/abs/2102.00879v1,http://arxiv.org/pdf/2102.00879v1,No journal ref found,"30 pages, 4 figures","We present the EVONANO platform for the evolution of nanomedicines with
+application to anti-cancer treatments. EVONANO includes a simulator to grow
+tumours, extract representative scenarios, and then simulate nanoparticle
+transport through these scenarios to predict nanoparticle distribution. The
+nanoparticle designs are optimised using machine learning to efficiently find
+the most effective anti-cancer treatments. We demonstrate our platform with two
+examples optimising the properties of nanoparticles and treatment to
+selectively kill cancer cells over a range of tumour environments."
+2012.12561v2,"GANDA: A deep generative adversarial network predicts the spatial
+  distribution of nanoparticles in tumor pixelly",2020-12-23T09:47:07Z,"Jiulou Zhang, Yuxia Tang, Shouju Wang",http://arxiv.org/abs/2012.12561v2,http://arxiv.org/pdf/2012.12561v2,No journal ref found,"28 pages, 17 figures, 3 tables","Intratumoral nanoparticles (NPs) distribution is critical for the success of
+nanomedicine in imaging and treatment, but computational models to describe the
+NPs distribution remain unavailable due to the complex tumor-nano interactions.
+Here, we develop a Generative Adversarial Network for Distribution Analysis
+(GANDA) to describe and conditionally generates the intratumoral quantum dots
+(QDs) distribution after i.v. injection. This deep generative model is trained
+automatically by 27 775 patches of tumor vessels and cell nuclei decomposed
+from whole-slide images of 4T1 breast cancer sections. The GANDA model can
+conditionally generate images of intratumoral QDs distribution under the
+constraint of given tumor vessels and cell nuclei channels with the same
+spatial resolution (pixels-to-pixels), minimal loss (mean squared error, MSE =
+1.871) and excellent reliability (intraclass correlation, ICC = 0.94).
+Quantitative analysis of QDs extravasation distance (ICC = 0.95) and subarea
+distribution (ICC = 0.99) is allowed on the generated images without knowing
+the real QDs distribution. We believe this deep generative model may provide
+opportunities to investigate how influencing factors affect NPs distribution in
+individual tumors and guide nanomedicine optimization for molecular imaging and
+personalized treatment."
+1704.06959v1,"Anisotropic magnetic nanoparticles for biomedicine: bridging frequency
+  separated AC-field controlled domains of actuation",2017-04-23T18:41:30Z,"David Serantes, Roy Chantrell, Helena Gavilán, María del Puerto Morales, Oksana Chubykalo-Fesenko, Daniel Baldomir, Akira Satoh",http://arxiv.org/abs/1704.06959v1,http://arxiv.org/pdf/1704.06959v1,No journal ref found,"26 pages, 6 figures","Magnetic nanoparticles constitute potential nanomedicine tools based on the
+possibility to obtain different responses triggered by safe remote stimulus.
+However, such richness can be detrimental if the different performances are not
+accurately differentiated (and controlled). An example of this is the
+reorientation of magnetic nanoparticles under the influence of AC fields, which
+can be exploited for either magneto-mechanical actuation (MMA) at low
+frequencies (tens of Hz); or heat release at large ones (MHz range). While it
+is clear that Brownian rotation is responsible for MMA, its heating role in the
+high-frequency regime is not clear. In this work we aim to shed light on this
+issue, which needs to be well understood for applications in magnetic fluid
+hyperthermia (MFH) or heat triggered drug release. Using a Brownian dynamics
+(BD) simulation technique, we have theoretically investigated the contribution
+of Brownian reversal in disk-shape particles (to enhance the viscous
+interaction with the environment) over a wide range of frequencies. Our results
+predict essentially negligible hysteresis losses both in the high- and
+low-frequency domains, with completely different implications: highly efficient
+MMA, but negligible MFH performance. Importantly, complementary micromagnetic
+simulations indicate that the large magnetic torque assumption of the BD
+simulations is supported by hexagonal-shape disks, up to field amplitudes of
+the order of 100 Oe. Larger fields would lead to N\'eel reversal which,
+noteworthy, predicts significant heating performance. The possibility of
+switching between the MMA and MFH response by changing the amplitude of the AC
+field, together with their distinct optimal conditions (large magnetic torque
+for MMF; large heating for MFH), points to such hexagonal nanodisks as
+promising nanomedicine agents with double mechanical and heating
+functionalities."
+0811.1520v1,Modeling Microscopic Chemical Sensors in Capillaries,2008-11-10T18:04:47Z,Tad Hogg,http://arxiv.org/abs/0811.1520v1,http://arxiv.org/pdf/0811.1520v1,The Open Nanomedicine Journal 2:1-9 (2009),"14 pages, 8 figures","Nanotechnology-based microscopic robots could provide accurate in vivo
+measurement of chemicals in the bloodstream for detailed biological research
+and as an aid to medical treatment. Quantitative performance estimates of such
+devices require models of how chemicals in the blood diffuse to the devices.
+This paper models microscopic robots and red blood cells (erythrocytes) in
+capillaries using realistic distorted cell shapes. The models evaluate two
+sensing scenarios: robots moving with the cells past a chemical source on the
+vessel wall, and robots attached to the wall for longer-term chemical
+monitoring. Using axial symmetric geometry with realistic flow speeds and
+diffusion coefficients, we compare detection performance with a simpler model
+that does not include the cells. The average chemical absorption is
+quantitatively similar in both models, indicating the simpler model is an
+adequate design guide to sensor performance in capillaries. However,
+determining the variation in forces and absorption as cells move requires the
+full model."
+0903.1153v1,Energy transport and heat production in quantum engines,2009-03-06T14:14:23Z,"L. Arrachea, M. Moskalets",http://arxiv.org/abs/0903.1153v1,http://arxiv.org/pdf/0903.1153v1,"Handbook of Nanophysics, v.7: Nanomedicine and Nanorobotics, ed.
+  by Klaus D. Sattler .- CRC Press, Taylor & Francis Group, 2010, p.38-1","44 pp., 7 figs., to appear in Handbook of Nanophysics, ed. by Klaus
+  D. Sattler","A quantum dot driven by two ac gate potentials oscillating with a phase lag
+may be regarded as a quantum engine, where energy is transported and dissipated
+in the form of heat. In this chapter we introduce a microscopic model for a
+quantum pump and analyze the fundamental principle for the conservation of the
+charge and energy in this device. We also present the basics of two well
+established many-body techniques to treat quantum transport in harmonically
+time-dependent systems. We discuss the different operating modes of this
+quantum engine, including the mechanism of heat generation. Finally, we
+establish the principles of quantum refrigeration within the weak driving
+regime. We also show that it is possible to achieve a regime where part of the
+work done by some of the ac fields can be coherently transported and can be
+used by the other driving voltages."
+1004.3448v2,Radiation stability of biocompatibile magnetic fluid,2010-04-20T13:43:49Z,"Natalia Tomasovicova, Ivan Haysak, Martina Koneracka, Jozef Kovac, Milan Timko, Vlasta Zavisova, Alexander Okunev, Alexander Parlag, Alexey Fradkin, Peter Kopcansky",http://arxiv.org/abs/1004.3448v2,http://arxiv.org/pdf/1004.3448v2,No journal ref found,"15 pages, 8 figures","The radiation stability of biocompatibile magnetic fluid used in nanomedicine
+after electron irradiation was studied. Two types of the water-based magnetic
+fluids were prepared. The first one was based on the magnetite nanoparticles
+stabilized by one surfactant natrium oleate. The second one was biocompatibile
+magnetic fluid stabilized with two surfactants, natrium oleate as a first
+surfactant and Poly(ethylene glycol) (PEG) as a second surfactant. The
+magnetization measurements showed that electron irradiation up to 1000Gy caused
+50% reduction of saturation magnetization in the case of the first sample with
+only one surfactant while in the case of the second biocompatibile magnetic
+fluid, only 25% reduction of saturation magnetization was observed. In the
+first magnetic fluid the radiation caused the higher sedimentation of the
+magnetic particles than in the second case, when magnetic particles are covered
+also with PEG. The obtained results show that PEG behave as a protective
+element."
+1101.0857v1,"Reshaping elastic nanotubes via self-assembly of surface-adhesive
+  nanoparticles",2011-01-05T00:34:51Z,"Josep C. Pàmies, Angelo Cacciuto",http://arxiv.org/abs/1101.0857v1,http://arxiv.org/pdf/1101.0857v1,No journal ref found,5 pages; 4 figures,"Elastic sheets with macroscopic dimensions are easy to deform by bending and
+stretching. Yet shaping nanometric sheets by mechanical manipulation is hard.
+Here we show that nanoparticle self-assembly could be used to this end. We
+demonstrate by Monte Carlo simulation that spherical nanoparticles adhering to
+the outer surface of an elastic nanotube can self-assemble into linear
+structures as a result of curvature-mediated interactions. We find that
+nanoparticles arrange into rings or helices on stretchable nanotubes, and as
+axial strings on nanotubes with high rigidity to stretching. These
+self-assembled structures are inextricably linked to a variety of deformed
+nanotube profiles, which can be controlled by tuning the concentration of
+nanoparticles, the nanoparticle-nanotube diameter ratio and the elastic
+properties of the nanotube. Our results open the possibility of designing
+nanoparticle-laden tubular nanostructures with tailored shapes, for potential
+applications in materials science and nanomedicine."
+1108.4769v1,"Versatile Electrostatic Assembly of Nanoparticles & Polyelectrolytes:
+  Coating, Clustering and Layer-by-Layer Processes",2011-08-24T07:32:14Z,"J. -P. Chapel, J. -F. Berret",http://arxiv.org/abs/1108.4769v1,http://arxiv.org/pdf/1108.4769v1,No journal ref found,"review article for Current Opinion in Colloid and Interface Science,
+  23 pages, 3 figures","Engineered nanoparticles made from noble metals, rare-earth oxides or
+semiconductors are emerging as the central constituents of future nanotech
+developments. In this review, a survey of the complexing strategies between
+nanoparticles and oppositely charged polyelectrolytes developed during the last
+three years and based on electrostatic interactions is presented. These
+strategies include the one-step synthesis of stable and functionalized
+nanoparticles, the one- and multilayer coating of individual nano-objects, the
+controlled clustering of particles and the generation of capsules and thin
+films with superior functionalities. Among the formulation processes reported,
+three main classes are identified : the direct mixing route, the desalting
+transition pathway and the well-known layer by layer method. Finally, some
+latter developments, trends and applications of electrostatic assemblies in
+materials science and nanomedicine are highlighted"
+1201.3034v1,"Temperature dependence of the thermal boundary resistivity of
+  glass-embedded metal nanoparticles",2012-01-14T18:35:04Z,"Francesco Banfi, Vincent Juvé, Damiano Nardi, Stefano Dal Conte, Claudio Giannetti, Gabriele Ferrini, Natalia Del Fatti, Fabrice Vallée",http://arxiv.org/abs/1201.3034v1,http://arxiv.org/pdf/1201.3034v1,"Appl. Phys. Lett. 100, 011902 (2012)","4 pages, 3 figures","The temperature dependence of the thermal boundary resistivity is
+investigated in glass-embedded Ag particles of radius 4.5 nm, in the
+temperature range from 300 to 70 K, using all-optical time-resolved
+nanocalorimetry. The present results provide a benchmark for theories aiming at
+explaining the thermal boundary resistivity at the interface between metal
+nanoparticles and their environment, a topic of great relevance when tailoring
+thermal energy delivery from nanoparticles as for applications in nanomedicine
+and thermal management at the nanoscale"
+1211.0912v1,Direct observation of silver nanoparticle-ubiquitin corona formation,2012-11-05T16:22:47Z,"Feng Ding, Slaven Radic, Poonam Choudhary, Ran Chen, Jared M. Brown, Pu Chun Ke",http://arxiv.org/abs/1211.0912v1,http://arxiv.org/pdf/1211.0912v1,No journal ref found,No comment found,"Upon entering physiological environments, nanoparticles readily assume the
+form of a nanoparticle-protein corona that dictates their biological identity.
+Understanding the structure and dynamics of nanoparticle-protein corona is
+essential for predicting the fate, transport, and toxicity of nanomaterials in
+living systems and for enabling the vast applications of nanomedicine. We
+combined multiscale molecular dynamics simulations and complementary
+experiments to characterize the silver nanoparticle-ubiquitin corona formation.
+Specifically, ubiquitins competed with citrates for the nanoparticle surface
+and bound to the particle in a specific manner. Under a high
+protein/nanoparticle stoichiometry, ubiquitions formed a multi-layer corona on
+the particle surface. The binding exhibited an unusual stretched-exponential
+behavior, suggesting a rich kinetics originated from protein-protein,
+protein-citrate, and protein-nanoparticle interactions. Furthermore, the
+binding destabilized the {\alpha}-helices while increasing the {\beta}-sheets
+of the proteins. Our results revealed the structural and dynamic complexities
+of nanoparticle-protein corona formation and shed light on the origin of
+nanotoxicity."
+1506.01740v1,"An introduction to stochastic self-assembly: theory, simulation and
+  experimental applications",2015-06-04T22:21:47Z,E. M. Schwen,http://arxiv.org/abs/1506.01740v1,http://arxiv.org/pdf/1506.01740v1,No journal ref found,"Thesis summary of published work. 34 pages, 19 figures","We introduce three stochastic cooperative models for particle deposition and
+evaporation relevant to ionic self-assembly of nanoparticles with applications
+in surface fabrication and nanomedicine. We present a method for mapping a
+stochastic model onto the Ising model, which allows us to use the established
+results for the Ising model to describe the properties of the system. After
+completing the mapping process, we investigate the time dependence of particle
+density using the mean field approximation. We complement this theoretical
+analysis with Monte Carlo simulations that support our models. These
+techniques, which can be used separately or in combination, are useful as
+pedagogical tools because they are tractable mathematically and they apply
+equally well to many other physical systems with nearest-neighbor interactions
+including voter and epidemic models."
+1612.09455v1,Exchange Bias Effects in Iron Oxide-Based Nanoparticle Systems,2016-12-30T11:01:36Z,"Manh-Huong Phan, Javier Alonso, Hafsa Khurshid, Paula Lampen-Kelley, Sayan Chandra, Kristen Stojak Repa, Zohreh Nemati, Raja Das, Òscar Iglesias, Hariharan Srikanth",http://arxiv.org/abs/1612.09455v1,http://arxiv.org/pdf/1612.09455v1,"Nanomaterials 6, 221 (2016)","Review article, 30 pages, 14 figure","The exploration of exchange bias (EB) on the nanoscale provides a novel
+approach to improving the anisotropic properties of magnetic nanoparticles for
+prospective applications in nanospintronics and nanomedicine. However, the
+physical origin of EB is not fully understood. Recent advances in chemical
+synthesis provide a unique opportunity to explore EB in a variety of iron
+oxide-based nanostructures ranging from core/shell to hollow and hybrid
+composite nanoparticles. Experimental and atomistic Monte Carlo studies have
+shed light on the roles of interface and surface spins in these nanosystems.
+This review paper aims to provide a thorough understanding of the EB and
+related phenomena in iron oxide-based nanoparticle systems, knowledge of which
+is essential to tune the anisotropic magnetic properties of exchange-coupled
+nanoparticle systems for potential applications."
+1701.03352v1,"Graphene nanoplatelets induced tailoring in photocatalytic activity and
+  antibacterial characteristics of MgO/graphene nanoplatelets nanocomposites",2017-01-12T14:33:26Z,"Aqsa Arshad, Javed Iqbal, M. Siddiq, Qaisar Mansoor, M. Ismail, Faisal Mehmood, M. Ajmal, Zubia Abid",http://arxiv.org/abs/1701.03352v1,http://arxiv.org/pdf/1701.03352v1,"Journal of Applied Physics, 2017, 121(2)","10 pages, 12 figures","The synthesis, physical, photocatalytic, and antibacterial properties of MgO
+and graphene nanoplatelets (GNPs) nanocomposites are reported. The
+crystallinity, phase, morphology, chemical bonding, and vibrational modes of
+prepared nanomaterials are studied. The conductive nature of GNPs is tailored
+via photocatalysis and enhanced antibacterial activity. It is interestingly
+observed that the MgO/GNPs nanocomposite with optimized GNPs content show a
+significant photocatalytic activity (97.23% degradation) as compared to bare
+MgO (43%) which makes it the potential photocatalyst for purification of
+industrial waste water. In addition, the effect of increased amount of GNPs on
+antibacterial performance of nanocomposites against pathogenic micro-organisms
+is researched, suggesting them toxic. MgO/GNPs 25% nanocomposite may have
+potential applications in waste water treatment and nanomedicine due its
+multifunctionality."
+1705.06817v1,"Dimensionality reduction, and function approximation of
+  poly(lactic-co-glycolic acid) micro- and nanoparticle dissolution rate",2017-05-16T07:36:47Z,"Varun Kumar Ojha, Konrad Jackowski, Ajith Abraham, Václav Snášel",http://arxiv.org/abs/1705.06817v1,http://arxiv.org/pdf/1705.06817v1,"International Journal of Nanomedicine 2015,10",No comment found,"Prediction of poly(lactic co glycolic acid) (PLGA) micro- and nanoparticles'
+dissolution rates plays a significant role in pharmaceutical and medical
+industries. The prediction of PLGA dissolution rate is crucial for drug
+manufacturing. Therefore, a model that predicts the PLGA dissolution rate could
+be beneficial. PLGA dissolution is influenced by numerous factors (features),
+and counting the known features leads to a dataset with 300 features. This
+large number of features and high redundancy within the dataset makes the
+prediction task very difficult and inaccurate. In this study, dimensionality
+reduction techniques were applied in order to simplify the task and eliminate
+irrelevant and redundant features. A heterogeneous pool of several regression
+algorithms were independently tested and evaluated. In addition, several
+ensemble methods were tested in order to improve the accuracy of prediction.
+The empirical results revealed that the proposed evolutionary weighted ensemble
+method offered the lowest margin of error and significantly outperformed the
+individual algorithms and the other ensemble techniques."

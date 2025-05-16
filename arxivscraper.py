@@ -106,7 +106,7 @@ for i in range(start, total_results, results_per_iteration):
     
 df = pd.DataFrame(paper_dict)
 
-SAVE_PATH = r"D:\Users\torra\ArxivScraper\ArxivNanoScrape.csv"
+SAVE_PATH = r"C:\Users\Philippa\Documents\GitHub\arxivscraper\ArxivNanoScrape.csv"
 
 df.to_csv(SAVE_PATH, index=False, encoding="utf-8")
 print(f"Wrote {len(df)} papers to {SAVE_PATH}")
